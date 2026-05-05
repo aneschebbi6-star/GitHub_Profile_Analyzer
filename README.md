@@ -12,7 +12,7 @@ A CLI tool that analyzes any GitHub profile using the GitHub API.
 
 ## 🚀 Installation
 
-git clone https://github.com/aneschebbi6/github_analyzer
+git clone https://github.com/aneschebbi6-star/github_analyzer
 cd github_analyzer
 pip install requests rich
 
