@@ -26,10 +26,9 @@ Enter any GitHub username when prompted.
 
 Entrer le nom d'utilisateur github : CherifChebbi
 
-👤 CherifChebbi
-📦 Repos : 28
-👥 Followers : 2
-⭐ Score : 32/100
+![Screenshot](screenshot.png)
+
+
 
 ## 🛠 Tech Stack
 - Python 3.12
