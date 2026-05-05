@@ -1,0 +1,23 @@
+{
+    "username": "CherifChebbi",
+    "nom": "CherifChebbi",
+    "repos_publics": 28,
+    "followers": 2,
+    "langages": [
+        [
+            "Jupyter Notebook",
+            9
+        ],
+        [
+            "Python",
+            5
+        ],
+        [
+            "CSS",
+            4
+        ]
+    ],
+    "score": 100,
+    "total_stars": 24,
+    "top_project": "CRUD_PHP_MVC"
+}
