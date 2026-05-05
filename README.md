@@ -26,7 +26,7 @@ Enter any GitHub username when prompted.
 
 Entrer le nom d'utilisateur github : CherifChebbi
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.png.png)
 
 
 
